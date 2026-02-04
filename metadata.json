@@ -1,0 +1,7 @@
+{
+  "name": "VisDiff AI - 视觉还原度检测助手",
+  "description": "基于 AI 的视觉走查工具，对比设计稿与实际开发页面的差异，自动检测颜色、字体、间距等元素。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
